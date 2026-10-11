@@ -1,0 +1,18 @@
+{
+  "name": "Portale Familiare - Prova",
+  "short_name": "Portale",
+  "description": "Prova di installazione del Portale Familiare",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#172a45",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
